@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋, I'm Sachin Karhale!
 
-<!--
-**sachinkarhale/sachinkarhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills.
 
-Here are some ideas to get you started:
+✉  You can contact me at [sachinkarhale03@gmail.com](mailto:sachinkarhale03@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills Overview
+
+- *Programming Languages:* Java, Python, JavaScript, HTML and CSS, C++, PHP
+
+- *Database & Cloud:* RDBMS (MySQL), NoSQL (MongoDB)
+
+- *Tools & Software:* Git & Github, Visual Studio, Oracle VM, Eclipse, Android Studio
+
+## Looking for Opportunities
+
+I'm currently looking for roles as a C++ developer, front-end developer, and software engineer.
+
+## Socials
+
+- LinkedIn: [Sachin Karhale](https://www.linkedin.com/in/sachin-karhale-a17789236/)
+
