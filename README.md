@@ -18,5 +18,5 @@ I'm currently looking for roles as a C++ developer, front-end developer, and sof
 
 ## Socials
 
-- LinkedIn: [Sachin Karhale](https://www.linkedin.com/in/sachin-karhale-a17789236/)
+- LinkedIn: [Sachin Karhale](https://www.linkedin.com/in/sachinkarhale/)
 
